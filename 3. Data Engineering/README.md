@@ -1,3 +1,6 @@
+High-quality data is the fuel of AI systems. This chapter focuses on building robust, scalable data pipelines specifically designed for AI and LLM applications. You’ll learn data retrieval strategies (web scraping, APIs, enterprise data sources), cleaning and preprocessing at scale, annotation and labeling techniques, data versioning, synthetic data generation, and transformation pipelines that prepare data for training, fine-tuning, and RAG systems. Emphasis is placed on tools and frameworks (e.g., Apache Airflow, Spark, dbt, LangChain/LlamaIndex data loaders) and best practices for creating reliable, reproducible AI system-ready data infrastructure.
+
+
 
 ### Known Chunking Techniques: 
 
